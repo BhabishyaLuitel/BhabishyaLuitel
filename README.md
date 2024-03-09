@@ -35,9 +35,9 @@ As a new member of the GitHub community, I'm excited to share my journey with yo
       Folder structure in Next 13 App Router.
 
 - Full-Stack Task Manager https://github.com/BhabishyaLuitel/FullStack-Task-Manager.git
-    The FullStack-Task-Manager project aims to evolve into an industry-ready web application that facilitates comprehensive task management and collaboration for full-stack application development.\
+    -The FullStack-Task-Manager project aims to evolve into an industry-ready web application that facilitates comprehensive task management and collaboration for full-stack application development.
   
 - DeepCraft AI SaaS https://github.com/futureIntelligentTechnologies/DeepCraft.git
-    An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI             features, including image restoration, recoloring, object removal, generative filling, and background removal.
+    -An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI             features, including image restoration, recoloring, object removal, generative filling, and background removal.
 
 Feel free to check them out, and let's start a conversation!
