@@ -2,8 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently learning Computer perception and vision technology.
-- 👯 I’m looking to collaborate on the development of Full-Stack Web Applications.
-- 🤔 I’m looking for help with Calculus. 
+- 👯 I’m looking to collaborate on the development of Full-Stack Web Applications. 
 - 💬 Ask me about Web Development, System design, and databases, JavaScript, React, NodeJs, Express, and Typescript.
 - 📫 How to reach me: bhabishyaluitel@gmail.com.
 - ⚡ Fun fact: NONE, cause I think I am a pretty boring person.
